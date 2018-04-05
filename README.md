@@ -7,4 +7,4 @@ Data folder contains following files:
 2) Mouse reads filtered TPM (Transcripts Per Million) matrix, "mouse_reads_filtered_rsem.genes.tpm.matrix.txt"
 3) Table of sample descriptions as well as condition names, "samples_described_detail_sample_info.xlsx"
 
-R codes used for the analysis contain condition names given in the sample descriptions table in Data folder.
+R codes used for the analysis contain condition names for the samples given in the sample descriptions table in Data folder.
